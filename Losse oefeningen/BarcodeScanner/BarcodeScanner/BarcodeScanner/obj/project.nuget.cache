@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "GYbEFEweNiDMRzpnmdIGMIcSAKD9y7Bl3y7x5P10ImDJucxqMCKPlcM3BhihVmKTzu/I8k1ZqhpYzkXyZRG7ZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sjoerd\\Documents\\S2 Software\\S2-Software-Oplevering\\Losse oefeningen\\BarcodeScanner\\BarcodeScanner\\BarcodeScanner\\BarcodeScanner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sjoerd\\.nuget\\packages\\barcode\\2020.12.2\\barcode.2020.12.2.nupkg.sha512",
+    "C:\\Users\\Sjoerd\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Sjoerd\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\Sjoerd\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

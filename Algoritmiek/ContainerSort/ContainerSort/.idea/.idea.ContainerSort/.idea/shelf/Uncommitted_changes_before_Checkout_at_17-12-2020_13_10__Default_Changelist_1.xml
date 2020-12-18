@@ -1,0 +1,14 @@
+<changelist name="Uncommitted_changes_before_Checkout_at_17-12-2020_13_10_[Default_Changelist]1" date="1608207035313" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/.idea.ContainerSort/.idea/shelf/Uncommitted_changes_before_Checkout_at_17-12-2020_13_10_[Default_Changelist]1/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Checkout at 17-12-2020 13:10 [Default Changelist]" />
+  <binary>
+    <option name="BEFORE_PATH" value="ContainerSort/obj/Debug/net472/ContainerSort.csprojAssemblyReference.cache" />
+    <option name="AFTER_PATH" value="ContainerSort/obj/Debug/net472/ContainerSort.csprojAssemblyReference.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.ContainerSort/.idea/shelf/Uncommitted_changes_before_Checkout_at_17-12-2020_13_10_[Default_Changelist]1/ContainerSort.csprojAssemblyReference.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="ContainerSort/obj/project.nuget.cache" />
+    <option name="AFTER_PATH" value="ContainerSort/obj/project.nuget.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.ContainerSort/.idea/shelf/Uncommitted_changes_before_Checkout_at_17-12-2020_13_10_[Default_Changelist]1/project.nuget.cache" />
+  </binary>
+</changelist>

@@ -1,0 +1,12 @@
+C:\Users\Sjoerd\source\repos\Practice\Warehouse.Domain\bin\Debug\netcoreapp3.1\Warehouse.Database.deps.json
+C:\Users\Sjoerd\source\repos\Practice\Warehouse.Domain\bin\Debug\netcoreapp3.1\Warehouse.Database.dll
+C:\Users\Sjoerd\source\repos\Practice\Warehouse.Domain\bin\Debug\netcoreapp3.1\Warehouse.Database.pdb
+C:\Users\Sjoerd\source\repos\Practice\Warehouse.Domain\bin\Debug\netcoreapp3.1\Warehouse.Application.dll
+C:\Users\Sjoerd\source\repos\Practice\Warehouse.Domain\bin\Debug\netcoreapp3.1\Warehouse.Application.pdb
+C:\Users\Sjoerd\source\repos\Practice\Warehouse.Domain\obj\Debug\netcoreapp3.1\Warehouse.Database.csprojAssemblyReference.cache
+C:\Users\Sjoerd\source\repos\Practice\Warehouse.Domain\obj\Debug\netcoreapp3.1\Warehouse.Database.AssemblyInfoInputs.cache
+C:\Users\Sjoerd\source\repos\Practice\Warehouse.Domain\obj\Debug\netcoreapp3.1\Warehouse.Database.AssemblyInfo.cs
+C:\Users\Sjoerd\source\repos\Practice\Warehouse.Domain\obj\Debug\netcoreapp3.1\Warehouse.Database.csproj.CopyComplete
+C:\Users\Sjoerd\source\repos\Practice\Warehouse.Domain\obj\Debug\netcoreapp3.1\Warehouse.Database.dll
+C:\Users\Sjoerd\source\repos\Practice\Warehouse.Domain\obj\Debug\netcoreapp3.1\Warehouse.Database.pdb
+C:\Users\Sjoerd\source\repos\Practice\Warehouse.Domain\obj\Debug\netcoreapp3.1\Warehouse.Database.csproj.CoreCompileInputs.cache

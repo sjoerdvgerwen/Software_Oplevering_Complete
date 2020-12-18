@@ -1,0 +1,16 @@
+C:\Users\Sjoerd\Documents\S2 Software\S2-Software-Oplevering\BattleSim1\obj\Debug\netcoreapp3.1\BattleSim1.csprojAssemblyReference.cache
+C:\Users\Sjoerd\Documents\S2 Software\S2-Software-Oplevering\BattleSim1\obj\Debug\netcoreapp3.1\BattleSim1.Form1.resources
+C:\Users\Sjoerd\Documents\S2 Software\S2-Software-Oplevering\BattleSim1\obj\Debug\netcoreapp3.1\BattleSim1.Properties.Resources.resources
+C:\Users\Sjoerd\Documents\S2 Software\S2-Software-Oplevering\BattleSim1\obj\Debug\netcoreapp3.1\BattleSim1.csproj.GenerateResource.cache
+C:\Users\Sjoerd\Documents\S2 Software\S2-Software-Oplevering\BattleSim1\obj\Debug\netcoreapp3.1\BattleSim1.AssemblyInfoInputs.cache
+C:\Users\Sjoerd\Documents\S2 Software\S2-Software-Oplevering\BattleSim1\obj\Debug\netcoreapp3.1\BattleSim1.AssemblyInfo.cs
+C:\Users\Sjoerd\Documents\S2 Software\S2-Software-Oplevering\BattleSim1\obj\Debug\netcoreapp3.1\BattleSim1.csproj.CoreCompileInputs.cache
+C:\Users\Sjoerd\Documents\S2 Software\S2-Software-Oplevering\BattleSim1\bin\Debug\netcoreapp3.1\BattleSim1.exe
+C:\Users\Sjoerd\Documents\S2 Software\S2-Software-Oplevering\BattleSim1\bin\Debug\netcoreapp3.1\BattleSim1.deps.json
+C:\Users\Sjoerd\Documents\S2 Software\S2-Software-Oplevering\BattleSim1\bin\Debug\netcoreapp3.1\BattleSim1.runtimeconfig.json
+C:\Users\Sjoerd\Documents\S2 Software\S2-Software-Oplevering\BattleSim1\bin\Debug\netcoreapp3.1\BattleSim1.runtimeconfig.dev.json
+C:\Users\Sjoerd\Documents\S2 Software\S2-Software-Oplevering\BattleSim1\bin\Debug\netcoreapp3.1\BattleSim1.dll
+C:\Users\Sjoerd\Documents\S2 Software\S2-Software-Oplevering\BattleSim1\bin\Debug\netcoreapp3.1\BattleSim1.pdb
+C:\Users\Sjoerd\Documents\S2 Software\S2-Software-Oplevering\BattleSim1\obj\Debug\netcoreapp3.1\BattleSim1.dll
+C:\Users\Sjoerd\Documents\S2 Software\S2-Software-Oplevering\BattleSim1\obj\Debug\netcoreapp3.1\BattleSim1.pdb
+C:\Users\Sjoerd\Documents\S2 Software\S2-Software-Oplevering\BattleSim1\obj\Debug\netcoreapp3.1\BattleSim1.genruntimeconfig.cache

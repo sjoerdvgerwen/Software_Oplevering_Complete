@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8BuPCBdETKAi5N+wM4y9tGdnCRPjU968A/HOlGf0VA/53n2WTI2Xm7Kz9NTcUxL7q5mZAPEwF9Yeh3oZOG7OrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sjoerd\\source\\repos\\Practice\\WareHouse.Application\\Warehouse.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sjoerd\\.nuget\\packages\\mysqlconnector\\1.1.0\\mysqlconnector.1.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

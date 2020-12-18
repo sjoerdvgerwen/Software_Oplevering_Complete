@@ -1,0 +1,251 @@
+Index: ContainerSort/obj/project.packagespec.json
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>{\r\n  \"version\": \"1.0.0\",\r\n  \"restore\": {\r\n    \"projectUniqueName\": \"C:\\\\Users\\\\Sjoerd\\\\Documents\\\\S2 Software\\\\S2-Software-Oplevering\\\\Algoritmiek\\\\ContainerSort\\\\ContainerSort\\\\ContainerSort\\\\ContainerSort.csproj\",\r\n    \"projectName\": \"ContainerSort\",\r\n    \"projectPath\": \"C:\\\\Users\\\\Sjoerd\\\\Documents\\\\S2 Software\\\\S2-Software-Oplevering\\\\Algoritmiek\\\\ContainerSort\\\\ContainerSort\\\\ContainerSort\\\\ContainerSort.csproj\",\r\n    \"outputPath\": \"C:\\\\Users\\\\Sjoerd\\\\Documents\\\\S2 Software\\\\S2-Software-Oplevering\\\\Algoritmiek\\\\ContainerSort\\\\ContainerSort\\\\ContainerSort\\\\obj\\\\\",\r\n    \"projectStyle\": \"PackageReference\",\r\n    \"fallbackFolders\": [\r\n      \"C:\\\\Program Files\\\\dotnet\\\\sdk\\\\NuGetFallbackFolder\"\r\n    ],\r\n    \"originalTargetFrameworks\": [\r\n      \"net472\"\r\n    ],\r\n    \"sources\": {\r\n      \"C:\\\\Program Files (x86)\\\\Microsoft SDKs\\\\NuGetPackages\\\\\": {},\r\n      \"https://api.nuget.org/v3/index.json\": {}\r\n    },\r\n    \"frameworks\": {\r\n      \"net472\": {\r\n        \"projectReferences\": {}\r\n      }\r\n    },\r\n    \"warningProperties\": {\r\n      \"warnAsError\": [\r\n        \"NU1605\"\r\n      ]\r\n    }\r\n  },\r\n  \"frameworks\": {\r\n    \"net472\": {\r\n      \"runtimeIdentifierGraphPath\": \"C:\\\\Program Files\\\\dotnet\\\\sdk\\\\3.1.402\\\\RuntimeIdentifierGraph.json\"\r\n    }\r\n  },\r\n  \"runtimes\": {\r\n    \"win7-x86\": {\r\n      \"#import\": []\r\n    }\r\n  }\r\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- ContainerSort/obj/project.packagespec.json	(revision a328df6d9200e42cbe0d1fc616416f6f79a6e4ea)
++++ ContainerSort/obj/project.packagespec.json	(date 1608207002665)
+@@ -29,7 +29,7 @@
+   },
+   "frameworks": {
+     "net472": {
+-      "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
++      "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
+     }
+   },
+   "runtimes": {
+Index: ContainerSort/obj/ContainerSort.csproj.nuget.dgspec.json
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>{\r\n  \"format\": 1,\r\n  \"restore\": {\r\n    \"C:\\\\Users\\\\Sjoerd\\\\Documents\\\\S2 Software\\\\S2-Software-Oplevering\\\\Algoritmiek\\\\ContainerSort\\\\ContainerSort\\\\ContainerSort\\\\ContainerSort.csproj\": {}\r\n  },\r\n  \"projects\": {\r\n    \"C:\\\\Users\\\\Sjoerd\\\\Documents\\\\S2 Software\\\\S2-Software-Oplevering\\\\Algoritmiek\\\\ContainerSort\\\\ContainerSort\\\\ContainerSort\\\\ContainerSort.csproj\": {\r\n      \"version\": \"1.0.0\",\r\n      \"restore\": {\r\n        \"projectUniqueName\": \"C:\\\\Users\\\\Sjoerd\\\\Documents\\\\S2 Software\\\\S2-Software-Oplevering\\\\Algoritmiek\\\\ContainerSort\\\\ContainerSort\\\\ContainerSort\\\\ContainerSort.csproj\",\r\n        \"projectName\": \"ContainerSort\",\r\n        \"projectPath\": \"C:\\\\Users\\\\Sjoerd\\\\Documents\\\\S2 Software\\\\S2-Software-Oplevering\\\\Algoritmiek\\\\ContainerSort\\\\ContainerSort\\\\ContainerSort\\\\ContainerSort.csproj\",\r\n        \"packagesPath\": \"C:\\\\Users\\\\Sjoerd\\\\.nuget\\\\packages\\\\\",\r\n        \"outputPath\": \"C:\\\\Users\\\\Sjoerd\\\\Documents\\\\S2 Software\\\\S2-Software-Oplevering\\\\Algoritmiek\\\\ContainerSort\\\\ContainerSort\\\\ContainerSort\\\\obj\\\\\",\r\n        \"projectStyle\": \"PackageReference\",\r\n        \"fallbackFolders\": [\r\n          \"C:\\\\Program Files\\\\dotnet\\\\sdk\\\\NuGetFallbackFolder\"\r\n        ],\r\n        \"configFilePaths\": [\r\n          \"C:\\\\Users\\\\Sjoerd\\\\AppData\\\\Roaming\\\\NuGet\\\\NuGet.Config\",\r\n          \"C:\\\\Program Files (x86)\\\\NuGet\\\\Config\\\\Microsoft.VisualStudio.Offline.config\"\r\n        ],\r\n        \"originalTargetFrameworks\": [\r\n          \"net472\"\r\n        ],\r\n        \"sources\": {\r\n          \"C:\\\\Program Files (x86)\\\\Microsoft SDKs\\\\NuGetPackages\\\\\": {},\r\n          \"https://api.nuget.org/v3/index.json\": {}\r\n        },\r\n        \"frameworks\": {\r\n          \"net472\": {\r\n            \"projectReferences\": {}\r\n          }\r\n        },\r\n        \"warningProperties\": {\r\n          \"warnAsError\": [\r\n            \"NU1605\"\r\n          ]\r\n        }\r\n      },\r\n      \"frameworks\": {\r\n        \"net472\": {\r\n          \"runtimeIdentifierGraphPath\": \"C:\\\\Program Files\\\\dotnet\\\\sdk\\\\3.1.402\\\\RuntimeIdentifierGraph.json\"\r\n        }\r\n      },\r\n      \"runtimes\": {\r\n        \"win7-x86\": {\r\n          \"#import\": []\r\n        }\r\n      }\r\n    }\r\n  }\r\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- ContainerSort/obj/ContainerSort.csproj.nuget.dgspec.json	(revision a328df6d9200e42cbe0d1fc616416f6f79a6e4ea)
++++ ContainerSort/obj/ContainerSort.csproj.nuget.dgspec.json	(date 1608207012305)
+@@ -40,7 +40,7 @@
+       },
+       "frameworks": {
+         "net472": {
+-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
++          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
+         }
+       },
+       "runtimes": {
+Index: ../../Circustrein1/.idea/.idea.Circustrein1/.idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoGeneratedRunConfigurationManager\">\r\n    <projectFile>Circustrein1/Circustrein1.csproj</projectFile>\r\n    <projectFile>Circustrein.UnitTest1/Circustrein.UnitTest1.csproj</projectFile>\r\n    <projectFile>TestProject1/TestProject1.csproj</projectFile>\r\n  </component>\r\n  <component name=\"BranchesTreeState\">\r\n    <expand>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n    </expand>\r\n    <select />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"c43c0d44-5a65-4768-ad7e-aab13266a9d4\" name=\"Default Changelist\" comment=\"Unit Tests\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/.idea.Circustrein1/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/.idea.Circustrein1/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.vs/Circustrein1/v16/.suo\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.vs/Circustrein1/v16/.suo\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Circustrein.UnitTest1/UnitTest1.cs\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Circustrein.UnitTest1/UnitTest1.cs\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$/../..\" value=\"ContainerSchip\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$/../..\" />\r\n  </component>\r\n  <component name=\"HighlightingSettingsPerFile\">\r\n    <setting file=\"file://$PROJECT_DIR$/TestProject1/UnitTest1.cs\" root0=\"SKIP_HIGHLIGHTING\" />\r\n  </component>\r\n  <component name=\"IdeDocumentHistory\">\r\n    <option name=\"CHANGED_PATHS\">\r\n      <list>\r\n        <option value=\"$PROJECT_DIR$/Circustrein1/Program.cs\" />\r\n        <option value=\"$PROJECT_DIR$/Circustrein1/Animal.cs\" />\r\n        <option value=\"$PROJECT_DIR$/Circustrein1/Wagon.cs\" />\r\n        <option value=\"$PROJECT_DIR$/Circustrein1/Train.cs\" />\r\n        <option value=\"$PROJECT_DIR$/Circustrein.UnitTest/UnitTest1.cs\" />\r\n        <option value=\"$PROJECT_DIR$/Circustrein1.UnitTest/UnitTest1.cs\" />\r\n        <option value=\"$PROJECT_DIR$/Circustrein.UnitTest1/UnitTest1.cs\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1leLCg4iRDRr02x5HzBdRgg6T0Z\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"ASKED_SHARE_PROJECT_CONFIGURATION_FILES\" value=\"true\" />\r\n    <property name=\"DebuggerViewTab_PTCS_FirstProportionKey\" value=\"0.34994584\" />\r\n    <property name=\"DebuggerViewTab_PTCS_LastProportionKey\" value=\"0.30010834\" />\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"SHARE_PROJECT_CONFIGURATION_FILES\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"preferences.lookFeel\" />\r\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\r\n  </component>\r\n  <component name=\"RunManager\" selected=\".NET Project.Circustrein1\">\r\n    <configuration name=\"Circustrein1\" type=\"DotNetProject\" factoryName=\".NET Project\">\r\n      <option name=\"EXE_PATH\" value=\"\" />\r\n      <option name=\"PROGRAM_PARAMETERS\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"\" />\r\n      <option name=\"PASS_PARENT_ENVS\" value=\"1\" />\r\n      <option name=\"USE_EXTERNAL_CONSOLE\" value=\"0\" />\r\n      <option name=\"USE_MONO\" value=\"0\" />\r\n      <option name=\"RUNTIME_ARGUMENTS\" value=\"\" />\r\n      <option name=\"PROJECT_PATH\" value=\"$PROJECT_DIR$/Circustrein1/Circustrein1.csproj\" />\r\n      <option name=\"PROJECT_EXE_PATH_TRACKING\" value=\"1\" />\r\n      <option name=\"PROJECT_ARGUMENTS_TRACKING\" value=\"1\" />\r\n      <option name=\"PROJECT_WORKING_DIRECTORY_TRACKING\" value=\"1\" />\r\n      <option name=\"PROJECT_KIND\" value=\"DotNetCore\" />\r\n      <option name=\"PROJECT_TFM\" value=\"\" />\r\n      <method v=\"2\">\r\n        <option name=\"Build\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Circustrein.UnitTest1\" type=\"DotNetProject\" factoryName=\".NET Project\">\r\n      <option name=\"EXE_PATH\" value=\"\" />\r\n      <option name=\"PROGRAM_PARAMETERS\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"\" />\r\n      <option name=\"PASS_PARENT_ENVS\" value=\"1\" />\r\n      <option name=\"USE_EXTERNAL_CONSOLE\" value=\"0\" />\r\n      <option name=\"USE_MONO\" value=\"0\" />\r\n      <option name=\"RUNTIME_ARGUMENTS\" value=\"\" />\r\n      <option name=\"PROJECT_PATH\" value=\"$PROJECT_DIR$/Circustrein.UnitTest1/Circustrein.UnitTest1.csproj\" />\r\n      <option name=\"PROJECT_EXE_PATH_TRACKING\" value=\"1\" />\r\n      <option name=\"PROJECT_ARGUMENTS_TRACKING\" value=\"1\" />\r\n      <option name=\"PROJECT_WORKING_DIRECTORY_TRACKING\" value=\"1\" />\r\n      <option name=\"PROJECT_KIND\" value=\"DotNetCore\" />\r\n      <option name=\"PROJECT_TFM\" value=\"\" />\r\n      <method v=\"2\">\r\n        <option name=\"Build\" />\r\n      </method>\r\n    </configuration>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"c43c0d44-5a65-4768-ad7e-aab13266a9d4\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1607952484141</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1607952484141</updated>\r\n      <workItem from=\"1607952492865\" duration=\"4009000\" />\r\n      <workItem from=\"1608023613168\" duration=\"7182000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Unit Tests\">\r\n      <created>1608034821640</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1608034821640</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"2\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"UnityProjectConfiguration\" hasMinimizedUI=\"false\" />\r\n  <component name=\"UnityUnitTestConfiguration\" currentTestLauncher=\"NUnit\" />\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <option name=\"CLEAR_INITIAL_COMMIT_MESSAGE\" value=\"true\" />\r\n    <MESSAGE value=\"Unit Tests\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Unit Tests\" />\r\n  </component>\r\n  <component name=\"WindowStateProjectService\">\r\n    <state width=\"1877\" height=\"375\" key=\"GridCell.Tab.0.bottom\" timestamp=\"1608033276665\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1877\" height=\"375\" key=\"GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1608033276665\" />\r\n    <state width=\"1877\" height=\"375\" key=\"GridCell.Tab.0.center\" timestamp=\"1608033276665\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1877\" height=\"375\" key=\"GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1608033276665\" />\r\n    <state width=\"1877\" height=\"375\" key=\"GridCell.Tab.0.left\" timestamp=\"1608033276664\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1877\" height=\"375\" key=\"GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1608033276664\" />\r\n    <state width=\"1877\" height=\"375\" key=\"GridCell.Tab.0.right\" timestamp=\"1608033276665\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1877\" height=\"375\" key=\"GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1608033276665\" />\r\n    <state width=\"1877\" height=\"375\" key=\"GridCell.Tab.1.bottom\" timestamp=\"1608033276665\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1877\" height=\"375\" key=\"GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1608033276665\" />\r\n    <state width=\"1877\" height=\"375\" key=\"GridCell.Tab.1.center\" timestamp=\"1608033276665\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1877\" height=\"375\" key=\"GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1608033276665\" />\r\n    <state width=\"1877\" height=\"375\" key=\"GridCell.Tab.1.left\" timestamp=\"1608033276665\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1877\" height=\"375\" key=\"GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1608033276665\" />\r\n    <state width=\"1877\" height=\"375\" key=\"GridCell.Tab.1.right\" timestamp=\"1608033276665\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1877\" height=\"375\" key=\"GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1608033276665\" />\r\n    <state width=\"1877\" height=\"375\" key=\"GridCell.Tab.2.bottom\" timestamp=\"1608033276665\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1877\" height=\"375\" key=\"GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1608033276665\" />\r\n    <state width=\"1877\" height=\"375\" key=\"GridCell.Tab.2.center\" timestamp=\"1608033276665\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1877\" height=\"375\" key=\"GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1608033276665\" />\r\n    <state width=\"1877\" height=\"375\" key=\"GridCell.Tab.2.left\" timestamp=\"1608033276665\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1877\" height=\"375\" key=\"GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1608033276665\" />\r\n    <state width=\"1877\" height=\"375\" key=\"GridCell.Tab.2.right\" timestamp=\"1608033276665\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1877\" height=\"375\" key=\"GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1608033276665\" />\r\n    <state width=\"1877\" height=\"375\" key=\"GridCell.Tab.3.bottom\" timestamp=\"1608033276666\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1877\" height=\"375\" key=\"GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1608033276666\" />\r\n    <state width=\"1877\" height=\"375\" key=\"GridCell.Tab.3.center\" timestamp=\"1608033276665\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1877\" height=\"375\" key=\"GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1608033276665\" />\r\n    <state width=\"1877\" height=\"375\" key=\"GridCell.Tab.3.left\" timestamp=\"1608033276665\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1877\" height=\"375\" key=\"GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1608033276665\" />\r\n    <state width=\"1877\" height=\"375\" key=\"GridCell.Tab.3.right\" timestamp=\"1608033276665\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1877\" height=\"375\" key=\"GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1608033276665\" />\r\n    <state width=\"1877\" height=\"375\" key=\"GridCell.Tab.4.bottom\" timestamp=\"1608033276666\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1877\" height=\"375\" key=\"GridCell.Tab.4.bottom/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1608033276666\" />\r\n    <state width=\"1877\" height=\"375\" key=\"GridCell.Tab.4.center\" timestamp=\"1608033276666\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1877\" height=\"375\" key=\"GridCell.Tab.4.center/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1608033276666\" />\r\n    <state width=\"1877\" height=\"375\" key=\"GridCell.Tab.4.left\" timestamp=\"1608033276666\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1877\" height=\"375\" key=\"GridCell.Tab.4.left/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1608033276666\" />\r\n    <state width=\"1877\" height=\"375\" key=\"GridCell.Tab.4.right\" timestamp=\"1608033276666\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state width=\"1877\" height=\"375\" key=\"GridCell.Tab.4.right/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1608033276666\" />\r\n    <state x=\"552\" y=\"252\" key=\"Rider.ProjectTemplateDialog.Size\" timestamp=\"1608022625460\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"552\" y=\"252\" key=\"Rider.ProjectTemplateDialog.Size/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1608022625460\" />\r\n    <state x=\"461\" y=\"165\" key=\"SettingsEditor\" timestamp=\"1608024510070\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"461\" y=\"165\" key=\"SettingsEditor/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1608024510070\" />\r\n    <state x=\"552\" y=\"253\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1608034943865\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"552\" y=\"253\" key=\"Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1608034943865\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- ../../Circustrein1/.idea/.idea.Circustrein1/.idea/workspace.xml	(revision a328df6d9200e42cbe0d1fc616416f6f79a6e4ea)
++++ ../../Circustrein1/.idea/.idea.Circustrein1/.idea/workspace.xml	(date 1608126879597)
+@@ -24,11 +24,7 @@
+     <select />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="c43c0d44-5a65-4768-ad7e-aab13266a9d4" name="Default Changelist" comment="Unit Tests">
+-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Circustrein1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Circustrein1/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.vs/Circustrein1/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Circustrein1/v16/.suo" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Circustrein.UnitTest1/UnitTest1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Circustrein.UnitTest1/UnitTest1.cs" afterDir="false" />
+-    </list>
++    <list default="true" id="c43c0d44-5a65-4768-ad7e-aab13266a9d4" name="Default Changelist" comment="Unit testing Circustrein" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -130,7 +126,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1608034821640</updated>
+     </task>
+-    <option name="localTasksCounter" value="2" />
++    <task id="LOCAL-00002" summary="Unit testing Circustrein">
++      <created>1608126826149</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1608126826149</updated>
++    </task>
++    <option name="localTasksCounter" value="3" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -153,89 +156,90 @@
+   <component name="VcsManagerConfiguration">
+     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+     <MESSAGE value="Unit Tests" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Unit Tests" />
++    <MESSAGE value="Unit testing Circustrein" />
++    <option name="LAST_COMMIT_MESSAGE" value="Unit testing Circustrein" />
+   </component>
+   <component name="WindowStateProjectService">
+-    <state width="1877" height="375" key="GridCell.Tab.0.bottom" timestamp="1608033276665">
++    <state width="1877" height="375" key="GridCell.Tab.0.bottom" timestamp="1608126879579">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state width="1877" height="375" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608033276665" />
+-    <state width="1877" height="375" key="GridCell.Tab.0.center" timestamp="1608033276665">
++    <state width="1877" height="375" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608126879579" />
++    <state width="1877" height="375" key="GridCell.Tab.0.center" timestamp="1608126879579">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state width="1877" height="375" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608033276665" />
+-    <state width="1877" height="375" key="GridCell.Tab.0.left" timestamp="1608033276664">
++    <state width="1877" height="375" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608126879579" />
++    <state width="1877" height="375" key="GridCell.Tab.0.left" timestamp="1608126879578">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state width="1877" height="375" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608033276664" />
+-    <state width="1877" height="375" key="GridCell.Tab.0.right" timestamp="1608033276665">
++    <state width="1877" height="375" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608126879578" />
++    <state width="1877" height="375" key="GridCell.Tab.0.right" timestamp="1608126879579">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state width="1877" height="375" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608033276665" />
+-    <state width="1877" height="375" key="GridCell.Tab.1.bottom" timestamp="1608033276665">
++    <state width="1877" height="375" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608126879579" />
++    <state width="1877" height="375" key="GridCell.Tab.1.bottom" timestamp="1608126879579">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state width="1877" height="375" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608033276665" />
+-    <state width="1877" height="375" key="GridCell.Tab.1.center" timestamp="1608033276665">
++    <state width="1877" height="375" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608126879579" />
++    <state width="1877" height="375" key="GridCell.Tab.1.center" timestamp="1608126879579">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state width="1877" height="375" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608033276665" />
+-    <state width="1877" height="375" key="GridCell.Tab.1.left" timestamp="1608033276665">
++    <state width="1877" height="375" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608126879579" />
++    <state width="1877" height="375" key="GridCell.Tab.1.left" timestamp="1608126879579">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state width="1877" height="375" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608033276665" />
+-    <state width="1877" height="375" key="GridCell.Tab.1.right" timestamp="1608033276665">
++    <state width="1877" height="375" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608126879579" />
++    <state width="1877" height="375" key="GridCell.Tab.1.right" timestamp="1608126879579">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state width="1877" height="375" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608033276665" />
+-    <state width="1877" height="375" key="GridCell.Tab.2.bottom" timestamp="1608033276665">
++    <state width="1877" height="375" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608126879579" />
++    <state width="1877" height="375" key="GridCell.Tab.2.bottom" timestamp="1608126879580">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state width="1877" height="375" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608033276665" />
+-    <state width="1877" height="375" key="GridCell.Tab.2.center" timestamp="1608033276665">
++    <state width="1877" height="375" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608126879580" />
++    <state width="1877" height="375" key="GridCell.Tab.2.center" timestamp="1608126879579">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state width="1877" height="375" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608033276665" />
+-    <state width="1877" height="375" key="GridCell.Tab.2.left" timestamp="1608033276665">
++    <state width="1877" height="375" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608126879579" />
++    <state width="1877" height="375" key="GridCell.Tab.2.left" timestamp="1608126879579">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state width="1877" height="375" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608033276665" />
+-    <state width="1877" height="375" key="GridCell.Tab.2.right" timestamp="1608033276665">
++    <state width="1877" height="375" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608126879579" />
++    <state width="1877" height="375" key="GridCell.Tab.2.right" timestamp="1608126879580">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state width="1877" height="375" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608033276665" />
+-    <state width="1877" height="375" key="GridCell.Tab.3.bottom" timestamp="1608033276666">
++    <state width="1877" height="375" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608126879580" />
++    <state width="1877" height="375" key="GridCell.Tab.3.bottom" timestamp="1608126879580">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state width="1877" height="375" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608033276666" />
+-    <state width="1877" height="375" key="GridCell.Tab.3.center" timestamp="1608033276665">
++    <state width="1877" height="375" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608126879580" />
++    <state width="1877" height="375" key="GridCell.Tab.3.center" timestamp="1608126879580">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state width="1877" height="375" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608033276665" />
+-    <state width="1877" height="375" key="GridCell.Tab.3.left" timestamp="1608033276665">
++    <state width="1877" height="375" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608126879580" />
++    <state width="1877" height="375" key="GridCell.Tab.3.left" timestamp="1608126879580">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state width="1877" height="375" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608033276665" />
+-    <state width="1877" height="375" key="GridCell.Tab.3.right" timestamp="1608033276665">
++    <state width="1877" height="375" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608126879580" />
++    <state width="1877" height="375" key="GridCell.Tab.3.right" timestamp="1608126879580">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state width="1877" height="375" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608033276665" />
+-    <state width="1877" height="375" key="GridCell.Tab.4.bottom" timestamp="1608033276666">
++    <state width="1877" height="375" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608126879580" />
++    <state width="1877" height="375" key="GridCell.Tab.4.bottom" timestamp="1608126879580">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state width="1877" height="375" key="GridCell.Tab.4.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608033276666" />
+-    <state width="1877" height="375" key="GridCell.Tab.4.center" timestamp="1608033276666">
++    <state width="1877" height="375" key="GridCell.Tab.4.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608126879580" />
++    <state width="1877" height="375" key="GridCell.Tab.4.center" timestamp="1608126879580">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state width="1877" height="375" key="GridCell.Tab.4.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608033276666" />
+-    <state width="1877" height="375" key="GridCell.Tab.4.left" timestamp="1608033276666">
++    <state width="1877" height="375" key="GridCell.Tab.4.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608126879580" />
++    <state width="1877" height="375" key="GridCell.Tab.4.left" timestamp="1608126879580">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state width="1877" height="375" key="GridCell.Tab.4.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608033276666" />
+-    <state width="1877" height="375" key="GridCell.Tab.4.right" timestamp="1608033276666">
++    <state width="1877" height="375" key="GridCell.Tab.4.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608126879580" />
++    <state width="1877" height="375" key="GridCell.Tab.4.right" timestamp="1608126879580">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state width="1877" height="375" key="GridCell.Tab.4.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608033276666" />
++    <state width="1877" height="375" key="GridCell.Tab.4.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608126879580" />
+     <state x="552" y="252" key="Rider.ProjectTemplateDialog.Size" timestamp="1608022625460">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+@@ -244,9 +248,9 @@
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1608024510070" />
+-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1608034943865">
++    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1608126832378">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608034943865" />
++    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608126832378" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: ContainerSort/obj/project.assets.json
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>{\r\n  \"version\": 3,\r\n  \"targets\": {\r\n    \".NETFramework,Version=v4.7.2\": {},\r\n    \".NETFramework,Version=v4.7.2/win7-x86\": {}\r\n  },\r\n  \"libraries\": {},\r\n  \"projectFileDependencyGroups\": {\r\n    \".NETFramework,Version=v4.7.2\": []\r\n  },\r\n  \"packageFolders\": {\r\n    \"C:\\\\Users\\\\Sjoerd\\\\.nuget\\\\packages\\\\\": {},\r\n    \"C:\\\\Program Files\\\\dotnet\\\\sdk\\\\NuGetFallbackFolder\": {}\r\n  },\r\n  \"project\": {\r\n    \"version\": \"1.0.0\",\r\n    \"restore\": {\r\n      \"projectUniqueName\": \"C:\\\\Users\\\\Sjoerd\\\\Documents\\\\S2 Software\\\\S2-Software-Oplevering\\\\Algoritmiek\\\\ContainerSort\\\\ContainerSort\\\\ContainerSort\\\\ContainerSort.csproj\",\r\n      \"projectName\": \"ContainerSort\",\r\n      \"projectPath\": \"C:\\\\Users\\\\Sjoerd\\\\Documents\\\\S2 Software\\\\S2-Software-Oplevering\\\\Algoritmiek\\\\ContainerSort\\\\ContainerSort\\\\ContainerSort\\\\ContainerSort.csproj\",\r\n      \"packagesPath\": \"C:\\\\Users\\\\Sjoerd\\\\.nuget\\\\packages\\\\\",\r\n      \"outputPath\": \"C:\\\\Users\\\\Sjoerd\\\\Documents\\\\S2 Software\\\\S2-Software-Oplevering\\\\Algoritmiek\\\\ContainerSort\\\\ContainerSort\\\\ContainerSort\\\\obj\\\\\",\r\n      \"projectStyle\": \"PackageReference\",\r\n      \"fallbackFolders\": [\r\n        \"C:\\\\Program Files\\\\dotnet\\\\sdk\\\\NuGetFallbackFolder\"\r\n      ],\r\n      \"configFilePaths\": [\r\n        \"C:\\\\Users\\\\Sjoerd\\\\AppData\\\\Roaming\\\\NuGet\\\\NuGet.Config\",\r\n        \"C:\\\\Program Files (x86)\\\\NuGet\\\\Config\\\\Microsoft.VisualStudio.Offline.config\"\r\n      ],\r\n      \"originalTargetFrameworks\": [\r\n        \"net472\"\r\n      ],\r\n      \"sources\": {\r\n        \"C:\\\\Program Files (x86)\\\\Microsoft SDKs\\\\NuGetPackages\\\\\": {},\r\n        \"https://api.nuget.org/v3/index.json\": {}\r\n      },\r\n      \"frameworks\": {\r\n        \"net472\": {\r\n          \"projectReferences\": {}\r\n        }\r\n      },\r\n      \"warningProperties\": {\r\n        \"warnAsError\": [\r\n          \"NU1605\"\r\n        ]\r\n      }\r\n    },\r\n    \"frameworks\": {\r\n      \"net472\": {\r\n        \"runtimeIdentifierGraphPath\": \"C:\\\\Program Files\\\\dotnet\\\\sdk\\\\3.1.402\\\\RuntimeIdentifierGraph.json\"\r\n      }\r\n    },\r\n    \"runtimes\": {\r\n      \"win7-x86\": {\r\n        \"#import\": []\r\n      }\r\n    }\r\n  }\r\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- ContainerSort/obj/project.assets.json	(revision a328df6d9200e42cbe0d1fc616416f6f79a6e4ea)
++++ ContainerSort/obj/project.assets.json	(date 1608207012289)
+@@ -48,7 +48,7 @@
+     },
+     "frameworks": {
+       "net472": {
+-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
++        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
+       }
+     },
+     "runtimes": {
+Index: ContainerSort/obj/rider.project.restore.info
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>16074316753414091
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- ContainerSort/obj/rider.project.restore.info	(revision a328df6d9200e42cbe0d1fc616416f6f79a6e4ea)
++++ ContainerSort/obj/rider.project.restore.info	(date 1608207012426)
+@@ -1,1 +1,1 @@
+-16074316753414091
+\ No newline at end of file
++16082070123059554
+\ No newline at end of file

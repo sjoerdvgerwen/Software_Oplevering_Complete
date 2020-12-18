@@ -1,0 +1,9 @@
+C:\Users\Sjoerd\source\repos\Practice\WareHouse.Application\bin\Debug\netcoreapp3.1\Warehouse.Application.deps.json
+C:\Users\Sjoerd\source\repos\Practice\WareHouse.Application\bin\Debug\netcoreapp3.1\Warehouse.Application.dll
+C:\Users\Sjoerd\source\repos\Practice\WareHouse.Application\bin\Debug\netcoreapp3.1\Warehouse.Application.pdb
+C:\Users\Sjoerd\source\repos\Practice\WareHouse.Application\obj\Debug\netcoreapp3.1\Warehouse.Application.csprojAssemblyReference.cache
+C:\Users\Sjoerd\source\repos\Practice\WareHouse.Application\obj\Debug\netcoreapp3.1\Warehouse.Application.AssemblyInfoInputs.cache
+C:\Users\Sjoerd\source\repos\Practice\WareHouse.Application\obj\Debug\netcoreapp3.1\Warehouse.Application.AssemblyInfo.cs
+C:\Users\Sjoerd\source\repos\Practice\WareHouse.Application\obj\Debug\netcoreapp3.1\Warehouse.Application.dll
+C:\Users\Sjoerd\source\repos\Practice\WareHouse.Application\obj\Debug\netcoreapp3.1\Warehouse.Application.pdb
+C:\Users\Sjoerd\source\repos\Practice\WareHouse.Application\obj\Debug\netcoreapp3.1\Warehouse.Application.csproj.CoreCompileInputs.cache

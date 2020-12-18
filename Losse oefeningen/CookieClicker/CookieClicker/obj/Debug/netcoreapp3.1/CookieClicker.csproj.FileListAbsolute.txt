@@ -1,0 +1,16 @@
+C:\Users\Sjoerd\Documents\S2 Software\S2-Software-Oplevering\CookieClicker\CookieClicker\bin\Debug\netcoreapp3.1\CookieClicker.exe
+C:\Users\Sjoerd\Documents\S2 Software\S2-Software-Oplevering\CookieClicker\CookieClicker\bin\Debug\netcoreapp3.1\CookieClicker.deps.json
+C:\Users\Sjoerd\Documents\S2 Software\S2-Software-Oplevering\CookieClicker\CookieClicker\bin\Debug\netcoreapp3.1\CookieClicker.runtimeconfig.json
+C:\Users\Sjoerd\Documents\S2 Software\S2-Software-Oplevering\CookieClicker\CookieClicker\bin\Debug\netcoreapp3.1\CookieClicker.runtimeconfig.dev.json
+C:\Users\Sjoerd\Documents\S2 Software\S2-Software-Oplevering\CookieClicker\CookieClicker\bin\Debug\netcoreapp3.1\CookieClicker.dll
+C:\Users\Sjoerd\Documents\S2 Software\S2-Software-Oplevering\CookieClicker\CookieClicker\bin\Debug\netcoreapp3.1\CookieClicker.pdb
+C:\Users\Sjoerd\Documents\S2 Software\S2-Software-Oplevering\CookieClicker\CookieClicker\obj\Debug\netcoreapp3.1\CookieClicker.csprojAssemblyReference.cache
+C:\Users\Sjoerd\Documents\S2 Software\S2-Software-Oplevering\CookieClicker\CookieClicker\obj\Debug\netcoreapp3.1\CookieClicker.Form1.resources
+C:\Users\Sjoerd\Documents\S2 Software\S2-Software-Oplevering\CookieClicker\CookieClicker\obj\Debug\netcoreapp3.1\CookieClicker.Properties.Resources.resources
+C:\Users\Sjoerd\Documents\S2 Software\S2-Software-Oplevering\CookieClicker\CookieClicker\obj\Debug\netcoreapp3.1\CookieClicker.csproj.GenerateResource.cache
+C:\Users\Sjoerd\Documents\S2 Software\S2-Software-Oplevering\CookieClicker\CookieClicker\obj\Debug\netcoreapp3.1\CookieClicker.AssemblyInfoInputs.cache
+C:\Users\Sjoerd\Documents\S2 Software\S2-Software-Oplevering\CookieClicker\CookieClicker\obj\Debug\netcoreapp3.1\CookieClicker.AssemblyInfo.cs
+C:\Users\Sjoerd\Documents\S2 Software\S2-Software-Oplevering\CookieClicker\CookieClicker\obj\Debug\netcoreapp3.1\CookieClicker.csproj.CoreCompileInputs.cache
+C:\Users\Sjoerd\Documents\S2 Software\S2-Software-Oplevering\CookieClicker\CookieClicker\obj\Debug\netcoreapp3.1\CookieClicker.dll
+C:\Users\Sjoerd\Documents\S2 Software\S2-Software-Oplevering\CookieClicker\CookieClicker\obj\Debug\netcoreapp3.1\CookieClicker.pdb
+C:\Users\Sjoerd\Documents\S2 Software\S2-Software-Oplevering\CookieClicker\CookieClicker\obj\Debug\netcoreapp3.1\CookieClicker.genruntimeconfig.cache

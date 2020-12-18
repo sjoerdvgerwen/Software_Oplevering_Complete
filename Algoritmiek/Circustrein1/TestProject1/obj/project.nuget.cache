@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "0vrinA2V9j8cUMnuka2BO3wm+VycOecL0hMeVifVM3w1CPknFrU2bkhZv9JUkzi+idQygSgLv6oS62SUPVPBJA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Sjoerd\\Documents\\S2 Software\\S2-Software-Oplevering\\Algoritmiek\\Circustrein1\\TestProject1\\TestProject1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sjoerd\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
+    "C:\\Users\\Sjoerd\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",
+    "C:\\Users\\Sjoerd\\.nuget\\packages\\microsoft.net.test.sdk\\16.7.1\\microsoft.net.test.sdk.16.7.1.nupkg.sha512",
+    "C:\\Users\\Sjoerd\\.nuget\\packages\\mstest.testadapter\\2.1.1\\mstest.testadapter.2.1.1.nupkg.sha512",
+    "C:\\Users\\Sjoerd\\.nuget\\packages\\mstest.testframework\\2.1.1\\mstest.testframework.2.1.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project Circustrein1 is not compatible with net50 (.NETFramework,Version=v5.0). Project Circustrein1 supports: net5.0 (.NETCoreApp,Version=v5.0)",
+      "libraryId": "Circustrein1",
+      "targetGraphs": [
+        ".NETFramework,Version=v5.0"
+      ]
+    }
+  ]
+}
