@@ -10,7 +10,7 @@ Deze repository staan opdrachten in zoals:
 - Algoritmiek
 
 Ik heb de proftaak in een losse repository gezet om verwarring te vermijden.
-Mijn individuele project wordt ingeleverd in een andere repository.
+Mijn individuele project wordt ingeleverd in een andere repository. (https://github.com/sjoerdvgerwen/Individueel-Project)
 
 De afgelopen sprint heb ik me bezig gehouden met het maken van:
 * Unit tests
