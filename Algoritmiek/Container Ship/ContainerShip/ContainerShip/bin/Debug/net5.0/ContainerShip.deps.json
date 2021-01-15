@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ContainerShip/1.0.0": {
+        "dependencies": {
+          "ContainerShip.Logic": "1.0.0"
+        },
+        "runtime": {
+          "ContainerShip.dll": {}
+        }
+      },
+      "ContainerShip.Logic/1.0.0": {
+        "runtime": {
+          "ContainerShip.Logic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ContainerShip/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ContainerShip.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

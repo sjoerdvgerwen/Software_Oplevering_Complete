@@ -1,0 +1,12 @@
+C:\Users\Sjoerd\Documents\S2 Software\ContainerShip\ContainerShip\ContainerShip.Logic\bin\Debug\net5.0\ContainerShip.Logic.deps.json
+C:\Users\Sjoerd\Documents\S2 Software\ContainerShip\ContainerShip\ContainerShip.Logic\bin\Debug\net5.0\ContainerShip.Logic.dll
+C:\Users\Sjoerd\Documents\S2 Software\ContainerShip\ContainerShip\ContainerShip.Logic\bin\Debug\net5.0\ref\ContainerShip.Logic.dll
+C:\Users\Sjoerd\Documents\S2 Software\ContainerShip\ContainerShip\ContainerShip.Logic\bin\Debug\net5.0\ContainerShip.Logic.pdb
+C:\Users\Sjoerd\Documents\S2 Software\ContainerShip\ContainerShip\ContainerShip.Logic\obj\Debug\net5.0\ContainerShip.Logic.csprojAssemblyReference.cache
+C:\Users\Sjoerd\Documents\S2 Software\ContainerShip\ContainerShip\ContainerShip.Logic\obj\Debug\net5.0\ContainerShip.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sjoerd\Documents\S2 Software\ContainerShip\ContainerShip\ContainerShip.Logic\obj\Debug\net5.0\ContainerShip.Logic.AssemblyInfoInputs.cache
+C:\Users\Sjoerd\Documents\S2 Software\ContainerShip\ContainerShip\ContainerShip.Logic\obj\Debug\net5.0\ContainerShip.Logic.AssemblyInfo.cs
+C:\Users\Sjoerd\Documents\S2 Software\ContainerShip\ContainerShip\ContainerShip.Logic\obj\Debug\net5.0\ContainerShip.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Sjoerd\Documents\S2 Software\ContainerShip\ContainerShip\ContainerShip.Logic\obj\Debug\net5.0\ContainerShip.Logic.dll
+C:\Users\Sjoerd\Documents\S2 Software\ContainerShip\ContainerShip\ContainerShip.Logic\obj\Debug\net5.0\ref\ContainerShip.Logic.dll
+C:\Users\Sjoerd\Documents\S2 Software\ContainerShip\ContainerShip\ContainerShip.Logic\obj\Debug\net5.0\ContainerShip.Logic.pdb

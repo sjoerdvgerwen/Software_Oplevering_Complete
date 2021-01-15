@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainerShip", "ContainerShip\ContainerShip.csproj", "{E770B52E-E3C6-41CB-B02F-D3B8B5DE2727}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{A4501418-12DA-4AF5-8047-AF1A6E6CEAD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainerShip.Logic", "ContainerShip.Logic\ContainerShip.Logic.csproj", "{1C4EDBF6-1908-4233-8C0F-602CF736F496}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E770B52E-E3C6-41CB-B02F-D3B8B5DE2727}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E770B52E-E3C6-41CB-B02F-D3B8B5DE2727}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E770B52E-E3C6-41CB-B02F-D3B8B5DE2727}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E770B52E-E3C6-41CB-B02F-D3B8B5DE2727}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4501418-12DA-4AF5-8047-AF1A6E6CEAD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4501418-12DA-4AF5-8047-AF1A6E6CEAD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4501418-12DA-4AF5-8047-AF1A6E6CEAD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4501418-12DA-4AF5-8047-AF1A6E6CEAD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C4EDBF6-1908-4233-8C0F-602CF736F496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C4EDBF6-1908-4233-8C0F-602CF736F496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C4EDBF6-1908-4233-8C0F-602CF736F496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C4EDBF6-1908-4233-8C0F-602CF736F496}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
